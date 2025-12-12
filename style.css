@@ -5,11 +5,11 @@
 
 :root {
     /* Color Palette */
-    --primary: #1a252f;
-    /* Dark Slate / Charcoal */
-    --secondary: #e74c3c;
-    /* Brand Red */
-    --secondary-hover: #c0392b;
+    --primary: #4a4a4a;
+    /* Pro Grey */
+    --secondary: #e67e22;
+    /* Pro Orange/Red */
+    --secondary-hover: #d35400;
     --dark-bg: #121212;
     --light-bg: #f8f9fa;
     --text-main: #333333;
